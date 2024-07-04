@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Estudante, 20 anos<br>- Cursando Análise e Desenvolvimento de Sistemas na Universidade Potiguar<br>- Estagiário do Ministério Público na área de Suporte TI<br>- Desenvolvendor Web e Mobile em treinamento...
+- Estudante, 20 anos<br>- Formado em Análise e Desenvolvimento de Sistemas na Universidade Potiguar<br>- Fui estagiário do Ministério Público na área de Suporte TI e Desenvolvimento WEB<br>- Desenvolvendor Web FRONT-END | BACK-END
 
 
 ## 🌐 Socials:
